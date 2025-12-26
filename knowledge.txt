@@ -1,0 +1,5 @@
+1. How to book a movie - Click on book a movie and select the seats and proceed with the mode of payment
+2. What is AI Assistant - User can ask questions related to this web app
+3. Are snacks available when we are booking a movie - Yes
+4. Without money can i book a movie - No 
+5. What is history - It shows the movie details which you have book
