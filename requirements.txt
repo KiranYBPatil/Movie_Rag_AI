@@ -1,5 +1,5 @@
 fastapi
 uvicorn
 transformers
-torch
 python-dotenv
+torch==2.2.2+cpu
