@@ -7,10 +7,10 @@ import re
 
 app = FastAPI()
 
-# CORS (Render-safe)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  # OK for demo
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
